@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-##TODO 리스트
+<h1>TODO 리스트</h1>
 
 - [ ] 깃허브 블로그 만드는법
 - [ ] 안드로이드 스튜디오 강좌
@@ -19,8 +19,10 @@ order: 4
 - [ ] 오토캐드 간단 사용법
 - [ ] 모바엑스텀(푸티 대체) 설치법
 - [ ] 각종 오류 리포팅
+- [ ] 클라우드 플레어 도메인 등록기
 
+<br><br>
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> `_tabs/about.md`{: .filepath } 경로의 파일을 수정하면 이 페이지에 표시됩니다.
 {: .prompt-tip }
 
